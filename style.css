@@ -1,0 +1,28 @@
+ body{
+      background-color:black;
+      color: whitesmoke;
+     
+    }
+    img{
+      height: 300px;
+      width: 300px;
+    }
+    #about{
+      margin-top: 20px;
+    }
+    .align{
+      display: flex;
+      gap: 10px;
+      margin-left: 170px;
+      
+    }
+    #hm{
+       margin-left: 130px;
+    }
+    body{
+      padding: 50px;
+    }
+    #main{
+        display: flex;
+        gap: 10px;
+    }
